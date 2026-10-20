@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "klen",
+  "repo": "pylama_pylint",
+  "versions": [
+    {
+      "commit": "8359b449f0e47e6e3e9378cd3e77cf29df49418e",
+      "parsed_at": "2026-10-20T21:42:32.182427+00:00",
+      "tag": "3.1.2",
+      "filetree": "filetree/8359b449f0e47e6e3e9378cd3e77cf29df49418e.nq.gz",
+      "blobs": [
+        "blob/6ec8fb0b8efbe4d96317334909b0a402fc33aff8.nq.gz",
+        "blob/033f16485cf71664c0760c6d75c7adbdd7d736e5.nq.gz",
+        "blob/dbe844941bf3581d0dd94b3f7cbd328b09b7c9f3.nq.gz",
+        "blob/35afcf2874201aa8acc21adbad4612dd2327c4ff.nq.gz",
+        "blob/53a8ef088cd4df6dcb4265e6af6ebbc3b42d8c54.nq.gz",
+        "blob/3b8d173b8fba1b7938a0add1685a54e3d4377317.nq.gz",
+        "blob/42a65ccf9ee61e65c708cd8805e08d0be13dcf0c.nq.gz",
+        "blob/02667cc7c9a6ec44db15cfacafbc07c364c05af4.nq.gz",
+        "blob/532f56c85463cb5f1e8ac04921f5e086fe794ffa.nq.gz",
+        "blob/e7fae4c46766f802fde16d18aa6b65b9b700834b.nq.gz",
+        "blob/ea49009655244e5bf791697a512b63f772495832.nq.gz",
+        "blob/e6360141a80f65f42994af70b828a54eed76136b.nq.gz",
+        "blob/9ad8f49f115e1a5af252b659fb9a26ebabe1a0d4.nq.gz",
+        "blob/ac2030c4a3227d2627351c557395502e95b441e5.nq.gz",
+        "blob/d450b674ca83d9b71b818c8188466e9472d1e1d4.nq.gz",
+        "blob/c4a39179a1317c0059d188a90e134117279d5e85.nq.gz",
+        "blob/88003c5185842327b13110f4ac1c7e803233223e.nq.gz",
+        "blob/a45f5e1d1bd349ede5af0ff19d3e81d57610037a.nq.gz",
+        "blob/8951ea8e619d97d651aa55e8dee549b29b31a746.nq.gz",
+        "blob/50c0c3459cc99487bb9e4b1f388afafc40f755fe.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

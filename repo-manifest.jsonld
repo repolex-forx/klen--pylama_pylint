@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/pylama_pylint/commit/8359b449f0e47e6e3e9378cd3e77cf29df49418e",
       "git:hexsha": "8359b449f0e47e6e3e9378cd3e77cf29df49418e",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "3.1.2"
     },
     {
